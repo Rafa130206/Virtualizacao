@@ -5,7 +5,7 @@ Extensão .iso (Imagem do Sistema Operacional) - > instalar o sistema operaciona
 **BAIXAR O ISO SEMPRE NO SITE DA EMPRESA**<br>
 https://www.kali.org/get-kali/#kali-platforms -> link do Kali Linux <br>
 https://www.microsoft.com/pt-br/software-download/windows10?msockid=33522d710c2e6070283c38e80df36133 -> link do windows 10<br>
-https://www.bing.com/ck/a?!&&p=9df404cd506b3a64ac3e9e9a78ca9388f8877a36539871eb194af1176cbd73b4JmltdHM9MTc0MDAwOTYwMA&ptn=3&ver=2&hsh=4&fclid=33522d71-0c2e-6070-283c-38e80df36133&psq=distrowatch&u=a1aHR0cHM6Ly9kaXN0cm93YXRjaC5jb20v&ntb=1 -> Informações sobre vários sistemas operacionais.
+https://www.bing.com/ck/a?!&&p=9df404cd506b3a64ac3e9e9a78ca9388f8877a36539871eb194af1176cbd73b4JmltdHM9MTc0MDAwOTYwMA&ptn=3&ver=2&hsh=4&fclid=33522d71-0c2e-6070-283c-38e80df36133&psq=distrowatch&u=a1aHR0cHM6Ly9kaXN0cm93YXRjaC5jb20v&ntb=1 -> Informações sobre vários sistemas operacionais.<br>
 https://distrochooser.de/ -> Ajuda a escolher um sistema operacional.
 
 ### Hypervisor
